@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 <br>👨‍🎓 Currently pursuing B.Tech in Computer Science and Engineering (2022–2026) from Shri Shankaracharya Technical Campus , Bhilai<br>💬 Ask me about HTML, CSS, Javascript and C++ (still learning but always happy to discuss!)<br>🌱 I’m currently learning DSA and MERN Stack Development<br>🤝 I'm looking to collaborate on: Beginner-friendly Frontend Projects & Open Source contributions<br>📫 How to reach me ashishagrawal09990@gmail.com
 
-<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" >
+<img align="right" src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamkxancxcXR6dDY5d3I4YTZ5cHVrc2JyeWMzYjI0ODF2YXpzcTlzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e6o5cU7EnY6SukAYsC/giphy.gif >
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish.builds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish027120) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishagrawal09990@gmail.com) 

@@ -21,10 +21,6 @@ Here are some ideas to get you started:
   <img src="https://media4.giphy.com/media/i229PTC8BKt9V9RnwZ/giphy.gif" width="270" />
 </div> -->
 
-<img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNxeGIyd3B4amd3Mjk2aWp6M3FtaHR2MTBrOGpodWhodXZ6NzNrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="270">
-
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish.builds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish027120) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishagrawal09990@gmail.com) 

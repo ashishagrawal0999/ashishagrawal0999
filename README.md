@@ -61,5 +61,6 @@
   </a>
 </p>
 
+## 📊 GitHub Metrics
 
-
+![GitHub Metrics](./github-metrics.svg)

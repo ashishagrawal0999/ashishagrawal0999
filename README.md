@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Ashish Agrawal</h1>
+<!-- <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Ashish Agrawal</h1>
 <h3 align="center">Learner</h3>
 
 <p align="center">
@@ -63,4 +63,149 @@
 
 ## 📊 GitHub Metrics
 
-![GitHub Metrics](./github-metrics.svg)
+![GitHub Metrics](./github-metrics.svg) -->
+
+
+<h1 align="center">
+  Hey
+  <img
+    src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif"
+    height="30"
+    width="30"
+    alt="cat"
+  />
+  I'm Ashish Agrawal
+</h1>
+
+<h3 align="center">Learner</h3>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=ashishagrawal0999&label=Profile%20Views&color=00FFFF&style=flat-square"
+    alt="Profile Views"
+  />
+</p>
+
+---
+
+## 📌 About Me
+
+- 🎓 B.Tech in Computer Science
+- 🧠 Currently focused on C++ & Data Structures and Algorithms
+- ⚙️ Learning Backend Development
+- 💬 Ask me about C++, DSA, JavaScript and Backend Development
+- 📫 How to reach me: **ashishagrawal09990@gmail.com**
+- 🤝 Open to learning, collaborating, and contributing to meaningful projects
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashishagrawal0999&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10"
+    alt="Ashish's GitHub Stats"
+    width="48%"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=ashishagrawal0999&theme=github_dark&hide_border=true&cache_seconds=86400"
+    alt="Ashish's GitHub Streak"
+    width="48%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ashishagrawal0999&theme=github_dark&radius=10"
+    alt="Ashish's Activity Graph"
+    width="95%"
+  />
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+### Programming Languages
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="JavaScript"
+    width="40"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+    alt="C++"
+    width="40"
+  />
+</p>
+
+### Frontend
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+    alt="HTML5"
+    width="40"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+    alt="CSS3"
+    width="40"
+  />
+</p>
+
+### Tools
+
+<p align="center">
+  <img
+    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    alt="Git"
+    width="40"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"
+    alt="VS Code"
+    width="40"
+  />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ashish027120">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  &nbsp;
+
+  <a href="mailto:ashishagrawal09990@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img
+    src="./github-metrics.svg"
+    alt="GitHub Metrics"
+    width="95%"
+  />
+</p>
+

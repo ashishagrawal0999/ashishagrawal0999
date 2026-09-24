@@ -16,7 +16,7 @@
 * 🤝 Open to learning, collaborating, and contributing to meaningful projects
 
 
-<!-- ## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/ashishagrawal0999">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashishagrawal0999&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="ashishagrawal0999's GitHub Stats" />
@@ -25,34 +25,7 @@
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishagrawal0999&theme=github_dark&radius=10" alt="ashishagrawal0999's Activity Graph" />
-</p> -->
-
-
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashishagrawal0999&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10"
-    alt="Ashish's GitHub Stats"
-    width="48%"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com/?user=ashishagrawal0999&theme=github_dark&hide_border=true&cache_seconds=86400"
-    alt="Ashish's GitHub Streak"
-    width="48%"
-  />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ashishagrawal0999&theme=github_dark&radius=10"
-    alt="Ashish's Activity Graph"
-    width="95%"
-  />
-</p>
-
 
 
 ## 🛠️ Languages & Tools
@@ -88,9 +61,6 @@
   </a>
 </p>
 
-## 📊 GitHub Metrics
-
-![GitHub Metrics](./github-metrics.svg)
 
 
 

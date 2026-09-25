@@ -78,11 +78,18 @@
 
 ### Languages:
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p> -->
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,js,git,github,html,css" />
+  </a>
 </p>
 
 ### Tools & Platforms:
@@ -92,11 +99,17 @@
 </p>
 
 
-## Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/ashish027120"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="LinkedIn" width="34" height="34" /></a>
-</p>
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashishagrawal0999)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/ashish027120/)&nbsp;&nbsp;&nbsp;[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/brood_food_42)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ashishagrawal2712)&nbsp;&nbsp;&nbsp;[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ashish027120)&nbsp;&nbsp;&nbsp;[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ashishagrawal0999)&nbsp;&nbsp;&nbsp;[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/@ashish0t22z)
+
+</div>
+
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=ashishagrawal0999&cardType=streak)](https://www.readmecodegen.com/custom-github-card-generator)
+
 
 
 <table>
@@ -108,4 +121,24 @@
 </td>
   </tr>
 </table>
+
+
+<!-- 
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=ashishagrawal2712&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
+
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=ashishagrawal0999)](https://www.readmecodegen.com/custom-github-card-generator)
+
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=ashishagrawal0999&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
+ -->
+
+<!-- 
+
+<p align="center">
+  <img src="https://githance.in/api/render?type=footer&banner_id=banner-5&w=1600&h=240" alt="Footer banner 05" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://githance.in/api/render?type=decor&variant=wave-divider&v=rect-v4&pc=%2353D0FF&sc=%23FF7A1A&ac=%23D946EF&t=8&align=center&span=98" alt="Wave Divider" />
+</p> -->
+
 

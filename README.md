@@ -103,15 +103,9 @@
   <tr>
 <td align="center" valign="top">
 <p align="center">
-  <img src="https://githance.in/api/render?type=streak&variant=default&v=rect-v4&user=ashishagrawal0999" alt="Commit streak" width="360" />
-</p>
-</td>
-<td align="center" valign="top">
-<p align="center">
   <img src="https://githance.in/api/render?type=contribution-heatmap&variant=classic&v=rect-v4&user=ashishagrawal0999&range=monthly" alt="Contribution graph" />
 </p>
 </td>
   </tr>
 </table>
-
 

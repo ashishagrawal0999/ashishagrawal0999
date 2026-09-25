@@ -78,26 +78,22 @@
 
 ### Languages:
 
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-</p> -->
-
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,git,github,html,css" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="44" height="44" style="margin-right: 12px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 12px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="44" height="44" style="margin-right: 12px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="44" height="44" style="margin-right: 12px; margin-bottom: 8px;" />
 </p>
+
+
 
 ### Tools & Platforms:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-</p>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 12px; margin-bottom: 8px;" />
+   <img src="https://skillicons.dev/icons?i=git" alt="GitHub" width="44" height="44" style="margin-right: 12px; margin-bottom: 8px;" />
 
+</p>
 
 
 ## 🌐 Connect with Me
@@ -108,37 +104,6 @@
 
 </div>
 
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=ashishagrawal0999&cardType=streak)](https://www.readmecodegen.com/custom-github-card-generator)
 
-
-
-<table>
-  <tr>
-<td align="center" valign="top">
-<p align="center">
-  <img src="https://githance.in/api/render?type=contribution-heatmap&variant=classic&v=rect-v4&user=ashishagrawal0999&range=monthly" alt="Contribution graph" />
-</p>
-</td>
-  </tr>
-</table>
-
-
-<!-- 
-[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=ashishagrawal2712&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
-
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=ashishagrawal0999)](https://www.readmecodegen.com/custom-github-card-generator)
-
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=ashishagrawal0999&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
- -->
-
-<!-- 
-
-<p align="center">
-  <img src="https://githance.in/api/render?type=footer&banner_id=banner-5&w=1600&h=240" alt="Footer banner 05" width="800" />
-</p>
-
-<p align="center">
-  <img src="https://githance.in/api/render?type=decor&variant=wave-divider&v=rect-v4&pc=%2353D0FF&sc=%23FF7A1A&ac=%23D946EF&t=8&align=center&span=98" alt="Wave Divider" />
-</p> -->
 
 

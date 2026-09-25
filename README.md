@@ -9,14 +9,7 @@
 
 
 <h2>About Me</h2>
-<!-- <div style="color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; font-size: 12px; line-height: 18px; white-space: pre;"><div>🎓 B.Tech in Computer Science</div><div>🧠 Currently focused on C++ &amp; Data Structures and Algorithms</div><div>⚙️ Learning Backend Development</div><div>💬 Ask me about C++, DSA, JavaScript and Backend Development</div><div>📫 How to reach me: ashishagrawal09990@gmail.com | https://www.linkedin.com/in/ashish027120/</div><div>🤝 Open to learning, collaborating, and contributing to meaningful projects</div><br></div><ul> -->
-* 🎓 B.Tech in Computer Science
-* 🧠 Currently focused on C++ & Data Structures and Algorithms
-* ⚙️ Learning Backend Development
-* 💬 Ask me about C++, DSA, JavaScript and Backend Development
-* 📫 How to reach me: ashishagrawal09990@gmail.com | https://www.linkedin.com/in/ashish027120/
-* 🤝 Open to learning, collaborating, and contributing to meaningful projects
-
+<div style="color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; font-size: 12px; line-height: 18px; white-space: pre;"><div>🎓 B.Tech in Computer Science</div><div>🧠 Currently focused on C++ &amp; Data Structures and Algorithms</div><div>⚙️ Learning Backend Development</div><div>💬 Ask me about C++, DSA, JavaScript and Backend Development</div><div>📫 How to reach me: ashishagrawal09990@gmail.com | https://www.linkedin.com/in/ashish027120/</div><div>🤝 Open to learning, collaborating, and contributing to meaningful projects</div><br></div><ul>
 </ul>
 
 
@@ -69,25 +62,10 @@
 </div>
 
 
-<!-- 
-
-
-<p align="center">
-  <img src="https://githance.in/api/render?type=footer&banner_id=banner-5&w=1600&h=240" alt="Footer banner 05" width="800" />
-</p>
-
 <p align="center">
   <img src="https://githance.in/api/render?type=decor&variant=wave-divider&v=rect-v4&pc=%2353D0FF&sc=%23FF7A1A&ac=%23D946EF&t=8&align=center&span=98" alt="Wave Divider" />
-</p>  -->
+</p> 
 
 
-
-<!-- ## 📌 About Me
-* 🎓 B.Tech in Computer Science
-* 🧠 Currently focused on C++ & Data Structures and Algorithms
-* ⚙️ Learning Backend Development
-* 💬 Ask me about C++, DSA, JavaScript and Backend Development
-* 📫 How to reach me: ashishagrawal09990@gmail.com | https://www.linkedin.com/in/ashish027120/
-* 🤝 Open to learning, collaborating, and contributing to meaningful projects -->
 
 

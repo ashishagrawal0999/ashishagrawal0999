@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Ashish Agrawal</h1>
+<!-- <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Ashish Agrawal</h1>
 <h3 align="center">Learner</h3>
 
 <p align="center">
@@ -62,12 +62,56 @@
 </p>
 
 
+ -->
+
+<div align="center">
+  <img src="https://githance.in/api/render?type=header&variant=constellation&v=rect-v4&name=Ashish+Agrawal&subtitle=Learner&theme=midnight" alt="Custom header" />
+</div>
 
 
+<h2>About Me</h2>
+<div style="color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; font-size: 12px; line-height: 18px; white-space: pre;"><div>🎓 B.Tech in Computer Science</div><div>🧠 Currently focused on C++ &amp; Data Structures and Algorithms</div><div>⚙️ Learning Backend Development</div><div>💬 Ask me about C++, DSA, JavaScript and Backend Development</div><div>📫 How to reach me: ashishagrawal09990@gmail.com | https://www.linkedin.com/in/ashish027120/</div><div>🤝 Open to learning, collaborating, and contributing to meaningful projects</div><br></div><ul>
+</ul>
 
 
+## Tech Stack
+
+### Languages:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+
+### Tools & Platforms:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
 
 
+## Connect With Me
 
+<p align="center">
+  <a href="https://linkedin.com/in/ashish027120"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="LinkedIn" width="34" height="34" /></a>
+</p>
+
+
+<table>
+  <tr>
+<td align="center" valign="top">
+<p align="center">
+  <img src="https://githance.in/api/render?type=streak&variant=default&v=rect-v4&user=ashishagrawal0999" alt="Commit streak" width="360" />
+</p>
+</td>
+<td align="center" valign="top">
+<p align="center">
+  <img src="https://githance.in/api/render?type=contribution-heatmap&variant=classic&v=rect-v4&user=ashishagrawal0999&range=monthly" alt="Contribution graph" />
+</p>
+</td>
+  </tr>
+</table>
 
 

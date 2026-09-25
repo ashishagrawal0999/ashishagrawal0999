@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Ashish Agrawal</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Ashish Agrawal</h1>
 <h3 align="center">Learner</h3>
 
 <p align="center">
@@ -7,13 +7,10 @@
   </a>
 </p>
 
-## 📌 About Me
-* 🎓 B.Tech in Computer Science
-* 🧠 Currently focused on C++ & Data Structures and Algorithms
-* ⚙️ Learning Backend Development
-* 💬 Ask me about C++, DSA, JavaScript and Backend Development
-* 📫 How to reach me: ashishagrawal09990@gmail.com | https://www.linkedin.com/in/ashish027120/
-* 🤝 Open to learning, collaborating, and contributing to meaningful projects
+
+<h2>About Me</h2>
+<div style="color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; font-size: 12px; line-height: 18px; white-space: pre;"><div>🎓 B.Tech in Computer Science</div><div>🧠 Currently focused on C++ &amp; Data Structures and Algorithms</div><div>⚙️ Learning Backend Development</div><div>💬 Ask me about C++, DSA, JavaScript and Backend Development</div><div>📫 How to reach me: ashishagrawal09990@gmail.com | https://www.linkedin.com/in/ashish027120/</div><div>🤝 Open to learning, collaborating, and contributing to meaningful projects</div><br></div><ul>
+</ul>
 
 
 ## 📊 GitHub Stats & Trophies
@@ -28,61 +25,21 @@
 </p>
 
 
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-
-</p>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/ashish027120">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:ashishagrawal09990@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
-
-
- -->
-
-<div align="center">
-  <img src="https://githance.in/api/render?type=header&variant=constellation&v=rect-v4&name=Ashish+Agrawal&subtitle=Learner&theme=midnight" alt="Custom header" />
-</div>
-
-
-<h2>About Me</h2>
-<div style="color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; font-size: 12px; line-height: 18px; white-space: pre;"><div>🎓 B.Tech in Computer Science</div><div>🧠 Currently focused on C++ &amp; Data Structures and Algorithms</div><div>⚙️ Learning Backend Development</div><div>💬 Ask me about C++, DSA, JavaScript and Backend Development</div><div>📫 How to reach me: ashishagrawal09990@gmail.com | https://www.linkedin.com/in/ashish027120/</div><div>🤝 Open to learning, collaborating, and contributing to meaningful projects</div><br></div><ul>
-</ul>
-
-
 ## Tech Stack
 
-### Languages:
+### Programming Languages:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="44" height="44" style="margin-right: 38px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 38px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="44" height="44" style="margin-right: 38px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="44" height="44" style="margin-right: 38px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+
+
+
+### Frontend:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
 
@@ -90,8 +47,8 @@
 ### Tools & Platforms:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 38px; margin-bottom: 8px;" />
-   <img src="https://skillicons.dev/icons?i=git" alt="GitHub" width="44" height="44" style="margin-right: 38px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+   <img src="https://skillicons.dev/icons?i=git" alt="GitHub" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 
 </p>
 
@@ -100,7 +57,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashishagrawal0999)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/ashish027120/)&nbsp;&nbsp;&nbsp;[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/brood_food_42)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ashishagrawal2712)&nbsp;&nbsp;&nbsp;[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ashish027120)&nbsp;&nbsp;&nbsp;[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ashishagrawal0999)&nbsp;&nbsp;&nbsp;[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/@ashish0t22z)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashishagrawal0999)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish027120/)&nbsp;&nbsp;&nbsp;[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/brood_food_42)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ashishagrawal2712)&nbsp;&nbsp;&nbsp;[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ashish027120)&nbsp;&nbsp;&nbsp;[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ashishagrawal0999)&nbsp;&nbsp;&nbsp;[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/@ashish0t22z)
 
 </div>
 

@@ -62,10 +62,4 @@
 </div>
 
 
-<p align="center">
-  <img src="https://githance.in/api/render?type=decor&variant=wave-divider&v=rect-v4&pc=%2353D0FF&sc=%23FF7A1A&ac=%23D946EF&t=8&align=center&span=98" alt="Wave Divider" />
-</p> 
-
-
-
 

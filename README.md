@@ -79,10 +79,10 @@
 ### Languages:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="44" height="44" style="margin-right: 12px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 12px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="44" height="44" style="margin-right: 12px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="44" height="44" style="margin-right: 12px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="44" height="44" style="margin-right: 18px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 18px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="44" height="44" style="margin-right: 18px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="44" height="44" style="margin-right: 18px; margin-bottom: 8px;" />
 </p>
 
 
@@ -90,8 +90,8 @@
 ### Tools & Platforms:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 12px; margin-bottom: 8px;" />
-   <img src="https://skillicons.dev/icons?i=git" alt="GitHub" width="44" height="44" style="margin-right: 12px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 18px; margin-bottom: 8px;" />
+   <img src="https://skillicons.dev/icons?i=git" alt="GitHub" width="44" height="44" style="margin-right: 18px; margin-bottom: 8px;" />
 
 </p>
 

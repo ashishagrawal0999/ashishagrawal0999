@@ -1,6 +1,6 @@
-<h2>Hi, I'm Ashish Agrawal! 👋</h2>
-
-<img align="right" src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" width="200" alt="Coding cat" />
+<h2>
+  Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="23" width="23" alt="Typing cat" /> I'm Ashish Agrawal!
+</h2>
 
 <p>
   <em>
@@ -11,14 +11,20 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/ashish027120/">LinkedIn</a> |
-  <a href="https://github.com/ashishagrawal0999">GitHub</a> |
-  <a href="https://leetcode.com/ashishagrawal2712">LeetCode</a>
-</p>
+  <a href="https://github.com/ashishagrawal0999">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashish027120/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/ashishagrawal2712">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p> 
 
 ---
 
-### 🧩 A little more about me...
+### 🐱 A little more about me...
 
 ```javascript
 const ashish = {
@@ -51,23 +57,8 @@ const ashish = {
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ashishagrawal0999">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashishagrawal0999&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="GitHub Stats" />
-  </a>
-  <img height="180" src="https://streak-stats.demolab.com/?user=ashishagrawal0999&theme=github_dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishagrawal0999&theme=github_dark&radius=10" alt="GitHub Activity Graph" />
-</p>
-
----
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Waving animation" />
 
 <em>
-  I enjoy learning new technologies, solving problems, and building my development skills. Feel free to connect with me! 🚀
+  I enjoy learning new technologies, solving problems, and building my development skills. Feel free to connect with me, and let's learn and grow together! 🚀
 </em>

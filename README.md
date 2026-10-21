@@ -1,57 +1,73 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Ashish Agrawal</h1>
-<h3 align="center">Learner</h3>
+<h2>Hi, I'm Ashish Agrawal! 👋</h2>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ashishagrawal0999">
-    <img src="https://komarev.com/ghpvc/?username=ashishagrawal0999&label=Profile%20views&color=00FFFF&style=flat-square" alt="ashishagrawal0999's profile views" />
-  </a>
+<img align="right" src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" width="200" alt="Coding cat" />
+
+<p>
+  <em>
+    🎓 Computer Science Engineering Graduate<br>
+    🧠 Currently focused on C++ and Data Structures & Algorithms<br>
+    ⚙️ Learning Backend Development
+  </em>
 </p>
 
+<p>
+  <a href="https://www.linkedin.com/in/ashish027120/">LinkedIn</a> |
+  <a href="https://github.com/ashishagrawal0999">GitHub</a> |
+  <a href="https://leetcode.com/ashishagrawal2712">LeetCode</a>
+</p>
 
-<h2>About Me</h2>
-<div style="color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; font-size: 12px; line-height: 18px; white-space: pre;"><div>🎓 B.Tech in Computer Science</div><div>🧠 Currently focused on C++ &amp; Data Structures and Algorithms</div><div>⚙️ Learning Backend Development</div><div>💬 Ask me about C++, DSA, JavaScript and Backend Development</div><div>📫 How to reach me: ashishagrawal09990@gmail.com | https://www.linkedin.com/in/ashish027120/</div><div>🤝 Open to learning, collaborating, and contributing to meaningful projects</div><br></div><ul>
-</ul>
+---
 
+### 🧩 A little more about me...
 
-## 📊 GitHub Stats & Trophies
+```javascript
+const ashish = {
+  education: "B.Tech in Computer Science",
+  currentlyLearning: [
+    "C++",
+    "Data Structures & Algorithms",
+    "Backend Development"
+  ],
+  languages: ["C++", "JavaScript", "HTML", "CSS"],
+  backend: ["Node.js", "Express.js"],
+  tools: ["Git", "GitHub"],
+  interests: [
+    "Problem Solving",
+    "Backend Development",
+    "Software Engineering"
+  ],
+  goal: "Become a skilled software developer and build real-world projects",
+  email: "ashishagrawal09990@gmail.com"
+};
+```
+
+---
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** C++, JavaScript, HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Tools & Platforms:** Git, GitHub
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/ashishagrawal0999">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashishagrawal0999&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="ashishagrawal0999's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashishagrawal0999&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=ashishagrawal0999&theme=github_dark&hide_border=true&cache_seconds=86400" alt="ashishagrawal0999's GitHub Streak" width="49%" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=ashishagrawal0999&theme=github_dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishagrawal0999&theme=github_dark&radius=10" alt="ashishagrawal0999's Activity Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishagrawal0999&theme=github_dark&radius=10" alt="GitHub Activity Graph" />
 </p>
 
+---
 
-## Tech Stack
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Waving animation" />
 
-### Skills and Languages:
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;&nbsp;&nbsp;![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-</div>
-
-
-
-### Tools & Platforms:
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashishagrawal0999)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish027120/)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ashishagrawal2712)
-
-</div>
-
+<em>
+  I enjoy learning new technologies, solving problems, and building my development skills. Feel free to connect with me! 🚀
+</em>
